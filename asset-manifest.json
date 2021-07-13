@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/web3Ethereum/static/css/main.ba242884.chunk.css",
-    "main.js": "/web3Ethereum/static/js/main.5628dc97.chunk.js",
-    "main.js.map": "/web3Ethereum/static/js/main.5628dc97.chunk.js.map",
+    "main.css": "/web3Ethereum/static/css/main.63537cff.chunk.css",
+    "main.js": "/web3Ethereum/static/js/main.0e7c45bf.chunk.js",
+    "main.js.map": "/web3Ethereum/static/js/main.0e7c45bf.chunk.js.map",
     "runtime-main.js": "/web3Ethereum/static/js/runtime-main.eb812646.js",
     "runtime-main.js.map": "/web3Ethereum/static/js/runtime-main.eb812646.js.map",
     "static/js/2.21f44899.chunk.js": "/web3Ethereum/static/js/2.21f44899.chunk.js",
     "static/js/2.21f44899.chunk.js.map": "/web3Ethereum/static/js/2.21f44899.chunk.js.map",
     "index.html": "/web3Ethereum/index.html",
-    "static/css/main.ba242884.chunk.css.map": "/web3Ethereum/static/css/main.ba242884.chunk.css.map",
+    "static/css/main.63537cff.chunk.css.map": "/web3Ethereum/static/css/main.63537cff.chunk.css.map",
     "static/js/2.21f44899.chunk.js.LICENSE.txt": "/web3Ethereum/static/js/2.21f44899.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eb812646.js",
     "static/js/2.21f44899.chunk.js",
-    "static/css/main.ba242884.chunk.css",
-    "static/js/main.5628dc97.chunk.js"
+    "static/css/main.63537cff.chunk.css",
+    "static/js/main.0e7c45bf.chunk.js"
   ]
 }
