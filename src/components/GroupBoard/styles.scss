@@ -1,0 +1,14 @@
+.dashboard {
+  &-name {
+    font-size: 24px;
+    font-weight: 600;
+  }
+  &-content {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 16px 0px 40px 0px;
+  }
+  &-block {
+    margin: 5px;
+  }
+}

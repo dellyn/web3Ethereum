@@ -1,0 +1,23 @@
+.header {
+  margin-top: 25px;
+  &-content {
+    display: flex;
+    justify-content: space-between;
+    .logo {
+      font-weight: 600;
+      font-size: 20px;
+    }
+    button.wallet {
+      padding: 7px 21px;
+      border: 1px solid #000;
+      border-radius: 10px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: all 0.08s ease-in-out;
+      &:hover {
+        background-color: #000;
+        color: #fff;
+      }
+    }
+  }
+}
