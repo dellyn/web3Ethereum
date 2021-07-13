@@ -5,8 +5,8 @@ import "./styles.scss";
 const GroupBoard = ({ groupInfo }) => {
   return (
     <div className="dashboard-block">
-      <div className="dashboard-name">{groupInfo.name}</div>
-      <div className="dashboard-content">
+      <div className="dashboard-block_name">{groupInfo.name}</div>
+      <div className="dashboard-block_content">
         {groupInfo.data.map((item, idx) => {
           return <GroupBoardItem data={item} key={idx} />;
         })}

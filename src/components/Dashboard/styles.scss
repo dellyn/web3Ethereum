@@ -5,3 +5,14 @@
   font-weight: 700;
   font-family: "Playfair Display", Inter, serif;
 }
+
+@media screen and (max-width: 1200px) {
+  .dashboard-block {
+    &_name {
+      text-align: center;
+    }
+    &_content {
+      justify-content: center;
+    }
+  }
+}
