@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { getGroupIds, getGroup, getIndex } from "../../contracts/contract";
+import { getGroupIds, getGroup, getIndex } from "../contracts/contract";
 
 export const useGetData = () => {
   const [data, setData] = useState([]);

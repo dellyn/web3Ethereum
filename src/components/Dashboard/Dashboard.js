@@ -1,6 +1,6 @@
 import React from "react";
 import GroupBoard from "../GroupBoard/GroupBoard";
-import { useGetData } from "../hooks/useGetData";
+import { useGetData } from "../../hooks/useGetData";
 import Preloader from "../Preloader/Preloader";
 import "./styles.scss";
 
